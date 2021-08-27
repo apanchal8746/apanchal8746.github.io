@@ -4,11 +4,26 @@
  <br>
 Name: Ashish Panchal <br>
 Pronounced as: aa-shee-sh <br>
-Graduate Student at San Diego State University <br>
-MS in Big Data Analytics <br>
+Current Graduate Student at San Diego State University <br>
+For MS in Big Data Analytics <br>
 Undergrad: BE focused in Computer Science from Savitribai Phule Pune University <br>
 
 ### Dataset <br><br>
+
+The dataset I would like to introduce is ‘Autism Image Data’: <br>
+Link: https://www.kaggle.com/cihan063/autism-image-data <br>
+Values: <br>
+•	It will allow to detect early traits of Autism Spectrum Disorder (ASD) in the toddlers.
+•	Will help classify different categories in ASD.
+•	Using this data to train Machine Learning model to predict and analysis traits.
+•	Helping healthcare professional to analyze and develop techniques which will be beneficial in counselling and helping ASD kids with prominent skills.
+Applications: <br>
+•	Identify ASD traits and provide recommendations of specialized doctors.
+•	Doctors will be able to start Early Intervention Therapy and take prompt actions.
+•	Will help Physical, Speech, Occupations Therapists to identify the kids which needs more attention, physical exercises or speech trainings.
+•	Identifying Insurance Frauds.
+
+
 
 ### Markdown
 
