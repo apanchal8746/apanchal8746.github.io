@@ -1,11 +1,11 @@
 ## Welcome to Ashish Panchal's GitHub Page 
 
 **Host Summary:**
-Name: Ashish Panchal
-Pronounced as: aa-shee-sh
-Graduate Student at San Diego State University
-MS in Big Data Analytics
-Undergrad: BE focused in Computer Science from Savitribai Phule Pune University
+Name: Ashish Panchal <br>
+Pronounced as: aa-shee-sh <br>
+Graduate Student at San Diego State University <br>
+MS in Big Data Analytics <br>
+Undergrad: BE focused in Computer Science from Savitribai Phule Pune University <br>
 
 You can use the [editor on GitHub](https://github.com/apanchal8746/apanchal8746.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
