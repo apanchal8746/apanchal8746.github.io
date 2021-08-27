@@ -1,5 +1,12 @@
 ## Welcome to Ashish Panchal's GitHub Page 
 
+**Host Summary:**
+Name: Ashish Panchal
+Pronounced as: aa-shee-sh
+Graduate Student at San Diego State University
+MS in Big Data Analytics
+Undergrad: BE focused in Computer Science from Savitribai Phule Pune University
+
 You can use the [editor on GitHub](https://github.com/apanchal8746/apanchal8746.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
