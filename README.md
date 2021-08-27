@@ -1,6 +1,6 @@
 ## Welcome to Ashish Panchal's GitHub Page 
 
-**Host Summary:** <br>
+###**Host Summary:** <br>
  <br>
 Name: Ashish Panchal <br>
 Pronounced as: aa-shee-sh <br>
