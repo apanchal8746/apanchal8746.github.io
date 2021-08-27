@@ -1,6 +1,6 @@
 ## Welcome to Ashish Panchal's GitHub Page 
 
-**Host Summary:**
+**Host Summary:** <br>
 Name: Ashish Panchal <br>
 Pronounced as: aa-shee-sh <br>
 Graduate Student at San Diego State University <br>
