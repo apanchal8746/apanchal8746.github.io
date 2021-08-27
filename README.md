@@ -6,7 +6,7 @@ Name: Ashish Panchal <br>
 Pronounced as: aa-shee-sh <br>
 Current Graduate Student at San Diego State University <br>
 For MS in Big Data Analytics <br>
-Undergrad: BE focused in Computer Science from Savitribai Phule Pune University <br>
+Undergrad: BE focused in Computer Science from Savitribai Phule Pune University <br><br>
 
 ### Dataset <br><br>
 
