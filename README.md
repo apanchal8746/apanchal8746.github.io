@@ -23,6 +23,17 @@ Link: https://www.kaggle.com/cihan063/autism-image-data <br><br>
 •	Will help Physical, Speech, Occupations Therapists to identify the kids which needs more attention, physical exercises or speech trainings.<br>
 •	Identifying Insurance Frauds.<br>
 
+### Data Science Book <br><br>
+**Book Name:** An Introduction to R - Notes on R: A Programming Environment for Data Analysis and Graphics by W. N. Venables, D. M. Smith and the R Core Team<br>
+Institute: The R Foundation<br>
+Link: https://cran.r-project.org/doc/manuals/R-intro.pdf<br><br>
+• If we look at the beginning of time of data science, it has always been looked at as something whose concepts and techniques are derived from statistics. Although it’s a one of the areas, it’s a multi-dimensional field which requires knowledge of multiple skills like Math, Tools and Domain Knowledge. But I think Statistics has always been the base of it.<br>
+• The basics of data science consist of the concepts of Statistics and most of the statisticians, researchers and enterprises use the R programming language.<br>
+• This book will help me start my journey with R programming and introduce me to R environment, R commands, numbers, vectors, objects, arrays, matrices and manipulating data.<br>
+• The book also explores Probability Distributions, Statistical models, Graphical Procedures and Packages in R.<br>
+• R language provides the libraries, packages and tools required to perform statistical analysis and connect with a wide range of databases which will be helpful for me when working on Statistical Oriented Problems and trying different techniques and ideas inside the R Studio.<br>
+
+<br><br><br>
 
 
 ### Markdown
