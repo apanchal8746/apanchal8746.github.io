@@ -21,7 +21,7 @@ Link: https://www.kaggle.com/cihan063/autism-image-data <br><br>
 •	Identify ASD traits and provide recommendations of specialized doctors.<br>
 •	Doctors will be able to start Early Intervention Therapy and take prompt actions.<br>
 •	Will help Physical, Speech, Occupations Therapists to identify the kids which needs more attention, physical exercises or speech trainings.<br>
-•	Identifying Insurance Frauds.<br>
+•	Identifying Insurance Frauds.<br><br>
 
 ### Data Science Book <br><br>
 **Book Name:** An Introduction to R - Notes on R: A Programming Environment for Data Analysis and Graphics by W. N. Venables, D. M. Smith and the R Core Team<br>
@@ -33,7 +33,7 @@ Link: https://cran.r-project.org/doc/manuals/R-intro.pdf<br><br>
 • The book also explores Probability Distributions, Statistical models, Graphical Procedures and Packages in R.<br>
 • R language provides the libraries, packages and tools required to perform statistical analysis and connect with a wide range of databases which will be helpful for me when working on Statistical Oriented Problems and trying different techniques and ideas inside the R Studio.<br>
 
-<br><br><br>
+<br><br>
 
 
 ### Markdown
