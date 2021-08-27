@@ -11,13 +11,13 @@ Undergrad: BE focused in Computer Science from Savitribai Phule Pune University 
 ### Dataset <br><br>
 
 The dataset I would like to introduce is ‘Autism Image Data’: <br>
-Link: https://www.kaggle.com/cihan063/autism-image-data <br>
-Values: <br>
+Link: https://www.kaggle.com/cihan063/autism-image-data <br><br>
+**Values:** <br>
 •	It will allow to detect early traits of Autism Spectrum Disorder (ASD) in the toddlers. <br>
 •	Will help classify different categories in ASD.<br>
 •	Using this data to train Machine Learning model to predict and analysis traits.<br>
-•	Helping healthcare professional to analyze and develop techniques which will be beneficial in counselling and helping ASD kids with prominent skills.<br>
-Applications: <br>
+•	Helping healthcare professional to analyze and develop techniques which will be beneficial in counselling and helping ASD kids with prominent skills.<br><br>
+**Applications:** <br>
 •	Identify ASD traits and provide recommendations of specialized doctors.<br>
 •	Doctors will be able to start Early Intervention Therapy and take prompt actions.<br>
 •	Will help Physical, Speech, Occupations Therapists to identify the kids which needs more attention, physical exercises or speech trainings.<br>
